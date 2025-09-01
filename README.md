@@ -26,9 +26,10 @@ c>system verilog testbench for the funvtional verification.
 d>Exhaustive simulation for all possible 4-bit input combinations.
 <br>
 e>Synthesizable design, suitable for FPGA or ASIC implementation.
-<br>
+
 
 <br>
+
 4.METHODOLOGY 
 <br>
 a>Design the RTL of a 4-bit Wallace Tree Multiplier in verilog.
@@ -42,7 +43,8 @@ d>Verified correctness of multiplication against expected results.
 e>Analyzed the simulation waveform for correctness and timing.
 
 <br>
-<br>
+
+
 5.APPLICATIONS
 <br>
 a>Digital signal processing systems.
@@ -56,6 +58,8 @@ d>Cryptographic hardware requiring fast multiplication.
 e>FPGA and ASIC design for high-speed arithmetic operations.
 
 <br>
+
+
 6.RESULTS
 <br>
 1.Verified that the multiplier produces correct output for all 4-bit input pairs.
