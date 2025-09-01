@@ -1,5 +1,5 @@
 ## WALLACE_TREE_MULTIPLIER
-
+4-BIT WALLACE TREE MULTIPLIER 
 <br>
 Author-Ravi Shankar Tiwari
 <br>
