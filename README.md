@@ -22,7 +22,7 @@ a>verilog RTL design of a 4-bit Wallace Tree Multiplier.
 <br>
 b>Parallel reduction of partial products using carry-save adders.
 <br>
-c>system verilog testbench for the funvtional verification.
+c>system verilog testbench for the functional verification.
 <br>
 d>Exhaustive simulation for all possible 4-bit input combinations.
 <br>
